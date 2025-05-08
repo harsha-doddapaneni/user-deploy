@@ -1,0 +1,5 @@
+deployment:
+  imageURL: 932478401603.dkr.ecr.us-east-1.amazonaws.com/roboshop/dev/catalogue
+  imageVersion: IMAGE_VERSION
+hpa:
+  cpuUtilization: 20
