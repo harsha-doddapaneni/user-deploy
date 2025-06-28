@@ -19,7 +19,7 @@ pipeline {
         project = 'roboshop'
         environment = ''
         component = 'user'
-    }              
+    }               
     stages {
         
         stage('Setup Environment'){
