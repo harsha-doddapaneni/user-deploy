@@ -20,7 +20,6 @@ pipeline {
         environment = ''
         component = 'user'
     }
-
     stages {
         
         stage('Setup Environment'){
